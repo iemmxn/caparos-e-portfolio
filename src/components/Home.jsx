@@ -4,12 +4,7 @@ function Home() {
   return (
     <section id="home" className="text-white scroll-mt-16">
       <div className="max-w-4xl mx-auto px-4 py-20 text-center">
-        {/* initials circle */}
-        <div className="w-20 h-20 mx-auto rounded-full bg-blue-500 flex items-center justify-center text-2xl font-bold">
-          EC
-        </div>
-
-        <p className="text-gray-400 mt-6">Welcome to my portfolio</p>
+        <p className="text-gray-400">Welcome to my portfolio</p>
         <h1 className="text-4xl font-bold mt-1">
           Hi, I'm <span className="text-blue-400">{info.name}</span>
         </h1>
