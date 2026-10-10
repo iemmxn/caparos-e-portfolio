@@ -9,9 +9,7 @@ function Home() {
           Hi, I'm <span className="text-blue-400">{info.name}</span>
         </h1>
         <p className="text-gray-300 mt-4 max-w-xl mx-auto">
-          I'm a {info.course} student at {info.school}. I'm learning web
-          development and I like building simple websites with React and
-          Tailwind CSS.
+          I'm a {info.course} student at {info.school}.
         </p>
 
         <div className="mt-8 flex justify-center gap-3">

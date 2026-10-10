@@ -9,7 +9,7 @@ export const info = {
   github: "https://github.com/iemmxn",
 };
 
-export const skills = ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS"];
+export const skills = ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS", "Python"];
 
 export const projects = [
   {
